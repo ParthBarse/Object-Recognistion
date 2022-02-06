@@ -5,8 +5,9 @@ import cv2
 thresh = 0.5
 
 cap = cv2.VideoCapture(1)
-cap.set(3, 640)
-cap.set(4, 480)
+
+cap.set(3, 1280)
+cap.set(4, 720)
 
 classNames = []
 classFile = "coco.names"
