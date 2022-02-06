@@ -21,3 +21,6 @@ Line 10 >> cap.set(4, 480) #To change size of the capturing window
 
 
 ![Screenshot (226)](https://user-images.githubusercontent.com/91686761/152677764-a4ee4e71-6d64-4be4-83fc-a9e15bd711fa.png)
+
+
+![Screenshot (229)](https://user-images.githubusercontent.com/91686761/152678319-0a2e38ab-9932-4e9a-97ba-feb6030d12e9.png)
