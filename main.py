@@ -1,6 +1,4 @@
 import cv2
-import sys
-import keyboard
 
 #img = cv2.imread("lena.png")
 
@@ -56,4 +54,4 @@ if __name__ == "__main__":
         exit()
 
 
-#Code by Parth Barse (Github - )
+#Code by Parth Barse (Github - https://github.com/ParthBarse)
