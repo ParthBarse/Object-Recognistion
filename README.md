@@ -1,4 +1,4 @@
-# Object-Recognistion
+# Object-Recognistion-Basic
 
 <h1>How to run - </h1>
 
