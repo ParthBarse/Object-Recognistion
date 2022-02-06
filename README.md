@@ -13,7 +13,7 @@ Line 9  >> cap.set(3, 640) #To change size of the capturing window <br>
 Line 10 >> cap.set(4, 480) #To change size of the capturing window
 
 <h1>Features - </h1>
-1) This can recognise 91 different objects (Mention in coco.names)
+1) This can recognise 91 different objects (Mention in coco.names) <br>
 2) No need of GPU to run
 
 <h1>Screenshots - </h1>
